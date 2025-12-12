@@ -5,82 +5,80 @@
 <section class="py-24 bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="text-center mb-20">
-			<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-				Your all-in-one<br />
-				AI platform for real work
+			<h2 class="text-4xl md:text-5xl lg:text-6xl font-normal mb-6">
+				The Operator Performance<br />
+				System for hospitality
 			</h2>
 			<p class="text-gray-400 text-lg max-w-2xl mx-auto">
-				A seamless, beautiful way to bring AI into your company's apps, knowledge, and culture.
+				Beyond traditional LMS. Transform static procedures into dynamic, voice-activated operational tools.
 			</p>
 		</div>
 
 		<!-- Row 1 -->
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-			<!-- Card 1: Automate -->
+			<!-- Card 1: Voice Activation -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Automate</h3>
-					<p class="text-gray-400 text-sm">Run complex, multi-step processes</p>
+					<h3 class="text-lg font-semibold mb-1">Voice-Activated</h3>
+					<p class="text-gray-400 text-sm">Hands-free access with "Hey, Ops" wake word</p>
 				</div>
                 
                 <!-- Mockup Content -->
-                <div class="flex-1 relative">
-                    <div class="absolute inset-0 flex items-center justify-center">
-                         <!-- Abstract representation of workflow -->
-                         <div class="w-full h-full border border-white/5 rounded-lg bg-[#0a0a0a] p-6 relative">
-                             <div class="absolute top-1/2 left-8 -translate-y-1/2 text-gray-500 text-sm font-mono">
-                                 Building your workflow<br/>
-                                 Viewing in canvas >
-                             </div>
-                             <!-- Lines/Nodes -->
-                             <div class="absolute right-12 top-12 bottom-12 w-1/3 border-l border-white/5 dashed"></div>
-                             <div class="absolute right-12 top-1/2 w-8 h-px bg-white/10"></div>
-                             <div class="absolute right-4 top-1/2 w-8 h-8 rounded bg-white/5 border border-white/10"></div>
-                         </div>
+                <div class="flex-1 relative flex items-center justify-center">
+                    <div class="text-center">
+                        <!-- Voice Wave Animation -->
+                        <div class="w-48 h-48 mx-auto rounded-full bg-primary-500/10 border-2 border-primary-500/30 flex items-center justify-center relative mb-8">
+                            <div class="absolute inset-0 rounded-full bg-primary-500/20 animate-ping"></div>
+                            <svg class="w-24 h-24 text-primary-400 relative z-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+                            </svg>
+                        </div>
+                        <div class="bg-white/5 border border-white/10 rounded-full px-8 py-4 inline-block">
+                            <span class="text-primary-400 font-semibold text-xl">"Hey, Ops"</span>
+                        </div>
+                        <p class="text-gray-500 text-sm mt-4">Always listening, always ready</p>
                     </div>
                 </div>
 			</div>
 
-			<!-- Card 2: Create -->
+			<!-- Card 2: Living SOPs -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Create</h3>
-					<p class="text-gray-400 text-sm">Generate collaborative content in any format</p>
+					<h3 class="text-lg font-semibold mb-1">Living SOPs</h3>
+					<p class="text-gray-400 text-sm">Dynamic procedures that evolve with your operations</p>
 				</div>
                 
                 <!-- Mockup Content -->
                 <div class="flex-1 relative bg-[#0a0a0a] rounded-lg border border-white/5 overflow-hidden p-6 flex flex-col">
-                    <!-- Top stats row -->
-                    <div class="flex gap-4 mb-6">
-                        <div class="bg-blue-500/10 p-4 rounded w-1/3 border border-blue-500/20">
-                            <div class="text-xs text-blue-300 mb-1">Revenue</div>
-                            <div class="text-xl font-bold text-blue-400">14% ↗</div>
+                    <!-- SOP Document -->
+                    <div class="space-y-4">
+                        <div class="flex items-center justify-between">
+                            <div class="text-sm font-semibold text-white">VIP Check-In Procedure</div>
+                            <div class="text-xs text-primary-400 flex items-center gap-1">
+                                <div class="w-2 h-2 rounded-full bg-primary-400 animate-pulse"></div>
+                                Live
+                            </div>
                         </div>
-                         <div class="bg-white/5 p-4 rounded w-1/3 border border-white/10">
-                            <div class="text-xs text-gray-400 mb-1">Productivity</div>
-                            <div class="text-xl font-bold text-white">64%</div>
+                        
+                        <div class="space-y-3">
+                            <div class="bg-white/5 p-3 rounded border-l-2 border-primary-500">
+                                <div class="text-xs text-gray-400 mb-1">Step 1</div>
+                                <div class="text-sm text-gray-300">Greet guest by name</div>
+                            </div>
+                            <div class="bg-white/5 p-3 rounded border-l-2 border-primary-500">
+                                <div class="text-xs text-gray-400 mb-1">Step 2</div>
+                                <div class="text-sm text-gray-300">Verify reservation details</div>
+                            </div>
+                            <div class="bg-white/5 p-3 rounded border-l-2 border-white/20 opacity-50">
+                                <div class="text-xs text-gray-400 mb-1">Step 3</div>
+                                <div class="text-sm text-gray-300">Explain amenities</div>
+                            </div>
                         </div>
-                         <div class="bg-white/5 p-4 rounded w-1/3 border border-white/10">
-                            <div class="text-xs text-gray-400 mb-1">Efficiency</div>
-                            <div class="text-xl font-bold text-white">7%</div>
+
+                        <div class="mt-6 bg-primary-500/10 border border-primary-500/20 rounded-lg p-4">
+                            <div class="text-xs text-primary-400 mb-2">💡 Recent Update</div>
+                            <div class="text-xs text-gray-300">Added personalized welcome gift protocol</div>
                         </div>
-                    </div>
-                    
-                    <!-- Chart -->
-                    <div class="flex-1 w-full relative mt-4">
-                         <svg class="w-full h-full overflow-visible" viewBox="0 0 100 50" preserveAspectRatio="none">
-                             <!-- Grid lines -->
-                             <line x1="0" y1="10" x2="100" y2="10" stroke="#333" stroke-width="0.5" stroke-dasharray="2 2" />
-                             <line x1="0" y1="25" x2="100" y2="25" stroke="#333" stroke-width="0.5" stroke-dasharray="2 2" />
-                             <line x1="0" y1="40" x2="100" y2="40" stroke="#333" stroke-width="0.5" stroke-dasharray="2 2" />
-                             
-                             <!-- Lines -->
-                             <path d="M0 45 C 20 40, 40 30, 60 25 S 80 15, 100 5" fill="none" stroke="#3b82f6" stroke-width="2" />
-                             <path d="M0 48 C 20 45, 40 40, 60 38 S 80 35, 100 30" fill="none" stroke="#10b981" stroke-width="2" />
-                             
-                             <!-- Area under curve (fake) -->
-                             <path d="M0 48 C 20 45, 40 40, 60 38 S 80 35, 100 30 V 50 H 0 Z" fill="#10b981" fill-opacity="0.1" />
-                         </svg>
                     </div>
                 </div>
 			</div>
@@ -88,11 +86,11 @@
 
         <!-- Row 2 -->
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-			<!-- Card 3: Analyze -->
+			<!-- Card 3: Knowledge Capture -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Analyze</h3>
-					<p class="text-gray-400 text-sm">Turn data into live dashboards and reports</p>
+					<h3 class="text-lg font-semibold mb-1">Knowledge Capture</h3>
+					<p class="text-gray-400 text-sm">Preserve institutional memory and expertise</p>
 				</div>
                 
                  <!-- Mockup Content - Code Editor Look -->
@@ -118,11 +116,11 @@
                 </div>
 			</div>
 
-			<!-- Card 4: Act -->
+			<!-- Card 4: Contextual Guidance -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Act</h3>
-					<p class="text-gray-400 text-sm">Take instant actions across your tools</p>
+					<h3 class="text-lg font-semibold mb-1">Contextual Guidance</h3>
+					<p class="text-gray-400 text-sm">Right knowledge, right time, right person</p>
 				</div>
                 
                  <!-- Mockup Content - Action Card -->
@@ -149,11 +147,11 @@
                 </div>
 			</div>
 
-            <!-- Card 5: Find -->
+            <!-- Card 5: Multi-Site Rollout -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Find</h3>
-					<p class="text-gray-400 text-sm">All the latest company docs and data</p>
+					<h3 class="text-lg font-semibold mb-1">Multi-Site Rollout</h3>
+					<p class="text-gray-400 text-sm">Rapid deployment across 100K+ locations</p>
 				</div>
                 
                  <!-- Mockup Content - Search/Result -->

@@ -4,66 +4,66 @@
 			<!-- Testimonial 1 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"All of a sudden, a valuation memo that our CFO previously spent almost a week preparing was completed within three or four hours."
+					"Smart Operator transformed how our front desk team accesses procedures. Instead of fumbling through binders, they just ask 'Hey, Ops' and get exactly what they need while helping guests."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Sustainability Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading renewable energy company</div>
+					<div class="font-medium text-white text-sm">Operations Director</div>
+					<div class="text-gray-500 text-xs mt-0.5">Boutique hotel chain, 25 properties</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 2 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"Sana gives us control over the AI, allowing us to choose the material it accesses and tailor its parameters to our specific needs."
+					"We've cut training time by 70% and new operators are confident on day one. The voice interface means they can learn while doing, not sitting in a classroom."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Executive Vice President</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global medical technology provider</div>
+					<div class="font-medium text-white text-sm">General Manager</div>
+					<div class="text-gray-500 text-xs mt-0.5">Luxury resort group</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 3 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana Agents, even colleagues who aren't tech-savvy can leverage AI in their everyday work. It's empowered everyone, not just the experts."
+					"Finally, a system that captures what our best operators know. That institutional knowledge used to walk out the door when people left. Now it's preserved and accessible to everyone."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Head of Digitalization</div>
-					<div class="text-gray-500 text-xs mt-0.5">Major real estate group</div>
+					<div class="font-medium text-white text-sm">VP of Operations</div>
+					<div class="text-gray-500 text-xs mt-0.5">Multi-site restaurant group</div>
 				</div>
 			</div>
 
             <!-- Testimonial 4 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, our sales prep is now 10x quicker. Instead of spending hours gathering data manually, our team can instantly access the research insights they need—freeing them to focus on designing more meaningful, strategic client conversations."
+					"The hands-free aspect is game-changing. Our housekeeping team can get guidance without stopping their work or pulling out a phone. Service quality has never been more consistent."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Product Operations Lead</div>
-					<div class="text-gray-500 text-xs mt-0.5">International research and analytics firm</div>
+					<div class="font-medium text-white text-sm">Director of Housekeeping</div>
+					<div class="text-gray-500 text-xs mt-0.5">International hotel brand</div>
 				</div>
 			</div>
 
             <!-- Testimonial 5 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"We're leveraging our AI agents to find and compare product information, build sales arguments, support R&D, and much more. We see real operational efficiency, and Sana has already provided us with a quick payback."
+					"Rolling this out across 50 locations was surprisingly smooth. The system learns from each property and gets smarter. Our operators actually want to use it."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">CEO</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global industrial automation company</div>
+					<div class="font-medium text-white text-sm">Chief Operating Officer</div>
+					<div class="text-gray-500 text-xs mt-0.5">Regional hospitality group</div>
 				</div>
 			</div>
 
             <!-- Testimonial 6 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, we're creating assistants to accelerate everything from deal analysis to portfolio reviews, transforming the way our investment teams operate."
+					"Smart Operator gives our team real autonomy. They can solve problems on the spot instead of waiting for a manager. Guest satisfaction scores are up 30%."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Digital Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading private equity firm</div>
+					<div class="font-medium text-white text-sm">Regional Manager</div>
+					<div class="text-gray-500 text-xs mt-0.5">Upscale hotel collection</div>
 				</div>
 			</div>
 		</div>

@@ -6,39 +6,39 @@
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
 			<div>
-				<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-12 leading-tight">
-					Every team gets smarter<br />
-					with Sana
+				<h2 class="text-4xl md:text-5xl lg:text-6xl font-normal mb-12 leading-tight">
+					Built for hospitality<br />
+					operators everywhere
 				</h2>
 
 				<div class="space-y-6">
-					<div class="flex items-center gap-3 text-red-400 font-medium">
-						<div class="w-2 h-2 bg-red-400 rounded-sm"></div>
-						Sales teams
+					<div class="flex items-center gap-3 text-primary-400 font-medium">
+						<div class="w-2 h-2 bg-primary-400 rounded-sm"></div>
+						Hotels & Resorts
 					</div>
 					<p class="text-gray-400 text-sm leading-relaxed pl-5 border-l border-white/10 ml-1 mb-8">
-						Optimize every stage of the deal lifecycle with AI that helps you prep for calls, answers your RFPs, and updates your CRM.
+						Empower front desk, housekeeping, and concierge teams with instant access to procedures, guest preferences, and service protocols.
 					</p>
 
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Customer support
+						Restaurants & Dining
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						In-house operations
+						Event Venues
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Financial services
+						Cruise Lines
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Industrial companies
+						Casinos & Gaming
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Law firms
+						Theme Parks
 					</div>
 				</div>
 			</div>
